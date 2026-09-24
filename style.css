@@ -1,0 +1,89 @@
+body {
+margin: 1rem;
+font-family: decorative;
+line-height: 1.5;
+background-color: #FB6C00;
+}
+
+h1,ul,p,li,{
+font-family: "DynaPuff", system-ui;  
+font-optical-sizing: auto;
+font-weight: 500;
+font-style: normal;
+font-variation-settings:
+"wdth" 100;
+color:#FB6C00;
+font-size:20; 
+}
+
+
+
+.apple{
+background-color:#092328;
+padding:15px; 
+border-radius:30px;
+}
+
+
+
+.banana{
+background-color:#092328;
+padding: 15px;
+border-radius:30px;
+margin: 5px;
+border-style: solid;
+border-color: #40514E;
+bordr-
+}
+
+.TNT{
+padding:10px;
+}
+
+h1 {
+font-family: "DynaPuff", system-ui;  
+font-optical-sizing: auto;
+font-weight: 500;
+font-style: normal;
+font-variation-settings:
+"wdth" 100;
+color:#092328;
+font-size:20px; 
+}
+
+nav a {
+font-family: 'DynaPuff', cursive;
+color:#FB6C00;
+font-size:14px;
+}
+
+nav {
+padding: 20px;
+background-color: #092328;
+border-style:solid;
+border-color: #40514E;
+border-width: 8;
+border-radius: 30px;
+}
+
+nav a{
+text-decoration: none;
+  
+}
+
+h2{}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
